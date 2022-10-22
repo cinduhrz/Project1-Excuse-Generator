@@ -10,6 +10,7 @@ Bonus functions to be added include the ability to search a quote by author and 
 - Javascript
 - jQuery
 - ZenQuotes API
+- Mural
 - VS Code
 - Vercel
 
