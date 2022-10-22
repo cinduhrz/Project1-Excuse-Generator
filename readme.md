@@ -1,26 +1,40 @@
-# The Name of My App
+# Life Advice Generator
 
-a description of my project
+An app to search quotes by keyword.
+Bonus functions to be added include the ability to search a quote by author and to randomly generate a quote.
 
 ### Technologies Used
 
-- tech 1
-- tech 2
-- tech 3
-- tech 4
+- HTML
+- CSS
+- Javascript
+- jQuery
+- ZenQuotes API
+- VS Code
+- Vercel
 
 ### Wireframes
 
-![Some text](https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg)
+##### Desktop
+![desktop home screen](https://i.imgur.com/8PTqtOQ.png)
+![desktop quote screen](https://i.imgur.com/VtxVTTu.png)
+
+##### Mobile
+![mobile home screen](https://i.imgur.com/U6YF5eF.png)
+![mobile quote screen](https://i.imgur.com/DAVnmW0.png)
 
 ### Daily Plan
 
 | Day | Goal |
 |-----|------|
-|  1  |  Choose API |
+|  1  | Set up HTML skeleton |
 |  2  | Render data to screen |
-|  3  | Create form |
+|  3  | Add DOM components for form |
+|  4  | Style with CSS |
+|  5  | Add additional features (Day 1) |
+|  6  | Add additional features (Day 2) |
+|  7  | Finishing touches |
 
 
 ### Link to Project
-[My Project Live Page](https://www.google.com)
+[My Project Live Page](https://project1-iota-opal.vercel.app/)
