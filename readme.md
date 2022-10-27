@@ -1,7 +1,7 @@
 # Life Advice Generator
 
-An app to search quotes by keyword.
-Bonus functions to be added include the ability to search a quote by author and to randomly generate a quote.
+An app to generate a random excuse.
+Bonus functions to be added include the ability to generate an excuse for specific situations: excuses to give your children and excuses to give when your code doesn't work.
 
 ### Technologies Used
 
@@ -9,7 +9,7 @@ Bonus functions to be added include the ability to search a quote by author and 
 - CSS
 - Javascript
 - jQuery
-- ZenQuotes API
+- Excuser API
 - Mural
 - VS Code
 - Vercel
@@ -17,12 +17,12 @@ Bonus functions to be added include the ability to search a quote by author and 
 ### Wireframes
 
 ##### Desktop
-![desktop home screen](https://i.imgur.com/8PTqtOQ.png)
-![desktop quote screen](https://i.imgur.com/VtxVTTu.png)
+![desktop home screen](https://i.imgur.com/RguxAKm.png)
+![desktop excuse screen](https://i.imgur.com/29hDbac.png)
 
 ##### Mobile
-![mobile home screen](https://i.imgur.com/U6YF5eF.png)
-![mobile quote screen](https://i.imgur.com/DAVnmW0.png)
+![mobile home screen](https://i.imgur.com/9PT4RFS.png)
+![mobile quote screen](https://i.imgur.com/MJYVSWz.png)
 
 ### Daily Plan
 
