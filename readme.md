@@ -1,4 +1,4 @@
-# Life Advice Generator
+# Excuse Generator
 
 An app to generate a random excuse.
 Bonus functions to be added include the ability to generate an excuse for specific situations: excuses to give your children and excuses to give when your code doesn't work.
