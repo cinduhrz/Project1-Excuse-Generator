@@ -15,7 +15,8 @@ body {
 
 .excuse {
     font-size: 1.6em;
-    height: 10px;
+    height: 100px;
+    width: 850px;
     display: flex;
     align-items: center;
 }
