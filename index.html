@@ -15,14 +15,26 @@
 
 </head>
 <body>
-    <h1>excuse generator</h1>
+    <h1 class="title">excuse generator</h1>
     <div class="display">
         <div class="excuse">
-        excuse
         </div>
     </div>
     <form>
-        <input type="submit" value="give me an excuse">
+        <!-- dropdown code from https://www.w3schools.com/html/html_form_elements.asp -->
+        <label for="excuses">give me an excuse...</label>
+        <select id="excuse-categories" name="excuse-categories">
+            <option value="family">to give my family</option>
+            <option value="work">to give my boss/colleagues</option>
+            <option value="college">to give my professor</option>
+            <option value="kids">to give my kids</option>
+            <option value="party">to avoid a party</option>
+            <option value="code">for when my code isn't working</option>
+            <option value="gaming">for when I'm gaming...badly</option>
+            <option value="unbelievable">to give when I don't care anymore</option>
+            <option value="random">randomly!</option>
+        </select>
+        <button>give me an excuse!</button>
     </form>
 
     <footer>Excuses provided by <a href="https://excuser.herokuapp.com/" target="_blank">Excuser API</a></footer>
