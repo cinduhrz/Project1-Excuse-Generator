@@ -39,3 +39,11 @@ Bonus functions to be added include the ability to generate an excuse for specif
 
 ### Link to Project
 [My Project Live Page](https://project1-iota-opal.vercel.app/)
+
+
+### Future Goals
+- Make more responsive:
+    - desktop resizing
+    - mobile version
+- Add a button to generate random excuse instead of having it as a select option
+- More CSS styling
