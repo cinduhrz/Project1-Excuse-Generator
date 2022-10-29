@@ -9,6 +9,11 @@
     <!-- libraries first -->
     <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
 
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">    
+
     <!-- links second -->
     <script src="app.js" defer></script>
     <link rel="stylesheet" href="styles.css">
@@ -16,10 +21,6 @@
 </head>
 <body>
     <h1 class="title">excuse generator</h1>
-    <div class="display">
-        <div class="excuse">
-        </div>
-    </div>
     <form>
         <!-- dropdown code from https://www.w3schools.com/html/html_form_elements.asp -->
         <label for="excuses">give me an excuse...</label>
@@ -36,6 +37,10 @@
         </select>
         <button>give me an excuse!</button>
     </form>
+    <div class="display">
+        <div class="excuse">
+        </div>
+    </div>
 
     <footer>Excuses provided by <a href="https://excuser.herokuapp.com/" target="_blank">Excuser API</a></footer>
 
