@@ -1,5 +1,7 @@
 # Excuse Generator
 
+The API used in this project was hosted on Heroku's free plan and therefore is no longer functional due to Heroku's removal of their free plan. As such, the API calls made do not return anything. However, the code is available to view [here](https://stackblitz.com/edit/js-8qh9ha?file=index.js).
+
 An app to generate a random excuse.
 Bonus functions to be added include the ability to generate an excuse for specific situations: excuses to give your children and excuses to give when your code doesn't work.
 
