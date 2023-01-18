@@ -10,11 +10,11 @@ Bonus functions to be added include the ability to generate an excuse for specif
 - HTML
 - CSS
 - Javascript
-- jQuery
 - Excuser API
 - Mural
 - VS Code
 - Vercel
+- [Stackblitz](https://stackblitz.com/edit/js-8qh9ha?file=index.js)
 
 ### Wireframes
 
