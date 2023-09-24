@@ -1,5 +1,5 @@
 // Constants and Variables
-const baseURL = "https://excuser.herokuapp.com/v1"
+const baseURL = "https://excuser-three.vercel.app/v1"
 
 // api call format: 
 
